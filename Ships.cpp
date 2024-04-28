@@ -38,7 +38,7 @@ class Ship{
 		}
 		void displayposition(){
 			cout<<"The Position of the Ship with Serial Number "<<serialnum<<" is:"<<endl;
-			cout<<"latitute"<<endl;
+			cout<<"latitute1:"<<endl;
 			latitute.displayAngle();
 			cout<<"Longitude:"<<endl;
 			longitude.displayAngle();
